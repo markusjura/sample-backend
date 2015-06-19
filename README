@@ -1,0 +1,11 @@
+## Get user
+
+``` bash
+curl http://localhost:9000/users/markus
+```
+
+## Get account
+
+``` bash
+curl http://localhost:9000/accounts/1
+```
